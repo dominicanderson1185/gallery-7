@@ -1,0 +1,48 @@
+
+
+
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+.small{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.small > img{
+margin: 20px;
+width: 300px;
+
+
+}
+.med{
+    display: flex;
+    flex-direction: column;
+
+}
+.med > img{
+    margin: 10px;
+    width: 500px;
+
+    
+    }
+    .large{
+        display: flex;
+        flex-direction: column;
+    
+    }
+    .large > img{
+        margin: 10px;
+        width: 800px;
+        
+        }
+
+
+
+
+
+
+        
